@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Project specific
+logs/
+news_faiss_db/
+processed_news.json
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
