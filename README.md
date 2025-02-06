@@ -180,4 +180,4 @@ SOFTWARE.
 
 ## Author
 
-Dmitriy Kravtsov
+Dmitriy Kravtsov dmkravtsov@gmail.com
